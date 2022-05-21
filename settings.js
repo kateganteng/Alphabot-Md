@@ -19,9 +19,9 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "KateBot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.ownername= "KATE AR RAWAWIE" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/KATEARRAWAWIE" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "katteciracas1928@gmail.com" //bebas
 global.region = "Indonesia" //bebas
